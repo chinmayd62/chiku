@@ -4,3 +4,8 @@ welcome to software course
 selenium
 core java
 sql server
+oracle
+manual testing
+
+
+Thank you
